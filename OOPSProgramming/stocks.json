@@ -1,0 +1,17 @@
+[
+  {
+    "shareName": "Aditya birla",
+    "noOfShare": "20",
+    "Price": "40000"
+  },
+  {
+    "shareName": "Frankilin india",
+    "noOfShare": "15",
+    "Price": "45000"
+  },
+  {
+    "shareName": "Relaince india",
+    "noOfShare": "25",
+    "Price": "50000"
+  }
+]

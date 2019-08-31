@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\OOPSProgramming\OOPSProgramming\bin\Debug\netcoreapp2.1\OOPSProgramming.deps.json
+C:\Users\Admin\source\repos\OOPSProgramming\OOPSProgramming\bin\Debug\netcoreapp2.1\OOPSProgramming.runtimeconfig.json
+C:\Users\Admin\source\repos\OOPSProgramming\OOPSProgramming\bin\Debug\netcoreapp2.1\OOPSProgramming.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\OOPSProgramming\OOPSProgramming\bin\Debug\netcoreapp2.1\OOPSProgramming.dll
+C:\Users\Admin\source\repos\OOPSProgramming\OOPSProgramming\obj\Debug\netcoreapp2.1\OOPSProgramming.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\OOPSProgramming\OOPSProgramming\obj\Debug\netcoreapp2.1\OOPSProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OOPSProgramming\OOPSProgramming\obj\Debug\netcoreapp2.1\OOPSProgramming.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OOPSProgramming\OOPSProgramming\obj\Debug\netcoreapp2.1\OOPSProgramming.AssemblyInfo.cs
+C:\Users\Admin\source\repos\OOPSProgramming\OOPSProgramming\bin\Debug\netcoreapp2.1\OOPSProgramming.pdb
+C:\Users\Admin\source\repos\OOPSProgramming\OOPSProgramming\obj\Debug\netcoreapp2.1\OOPSProgramming.dll
+C:\Users\Admin\source\repos\OOPSProgramming\OOPSProgramming\obj\Debug\netcoreapp2.1\OOPSProgramming.pdb
